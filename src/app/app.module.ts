@@ -6,12 +6,16 @@ import { AppComponent } from './app.component';
 
 import { prueba } from './prueba/prueba.compA';
 import { HelloWorldComponent } from './hello-world/hello-world.component';
+import { FooterComponent } from './Components/footer/footer.component';
+import { HeaderComponent } from './Components/header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     prueba,
-    HelloWorldComponent
+    HelloWorldComponent,
+    FooterComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
