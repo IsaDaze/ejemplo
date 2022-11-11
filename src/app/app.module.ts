@@ -8,6 +8,7 @@ import { prueba } from './prueba/prueba.compA';
 import { HelloWorldComponent } from './hello-world/hello-world.component';
 import { FooterComponent } from './Components/footer/footer.component';
 import { HeaderComponent } from './Components/header/header.component';
+import { HomePageComponent } from './Components/home-page/home-page.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { HeaderComponent } from './Components/header/header.component';
     prueba,
     HelloWorldComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
+    HomePageComponent
   ],
   imports: [
     BrowserModule,
