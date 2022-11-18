@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as M from 'materialize-css'
+import * as M from 'materialize-css';
 
 @Component({
   selector: 'header',
