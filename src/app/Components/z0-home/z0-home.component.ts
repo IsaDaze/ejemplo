@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-z0-home',
+  selector: 'z0-home',
   templateUrl: './z0-home.component.html',
   styleUrls: ['./z0-home.component.css']
 })
