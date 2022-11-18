@@ -4,9 +4,21 @@
     color:black;
 }
 
+#foot-link{
+    padding: 5px, 5px, 0px, 0px;
+    margin: 5px, 5px, 0px, 0px;
+    color:black;
+    text-align: center;
+}
+
 .logo{
     height: 50px;
     width: 150px;
+}
+
+.records{
+    height: 50px;
+    width: 100px;
 }
 
 .icon{
