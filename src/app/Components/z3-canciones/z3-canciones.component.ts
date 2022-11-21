@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-z3-canciones',
+  selector: 'z3-canciones',
   templateUrl: './z3-canciones.component.html',
   styleUrls: ['./z3-canciones.component.css']
 })

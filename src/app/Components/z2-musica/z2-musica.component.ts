@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-z2-musica',
+  selector: 'z2-musica',
   templateUrl: './z2-musica.component.html',
   styleUrls: ['./z2-musica.component.css']
 })

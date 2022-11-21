@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-z5-merch',
+  selector: 'z5-merch',
   templateUrl: './z5-merch.component.html',
   styleUrls: ['./z5-merch.component.css']
 })
