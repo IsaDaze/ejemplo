@@ -7,7 +7,7 @@
 #foot-link{
     padding: 5px, 5px, 0px, 0px;
     margin: 5px, 5px, 0px, 0px;
-    color:black;
+    color: #5E581B;
     text-align: center;
 }
 
@@ -28,4 +28,5 @@
 
 .row{
     margin: 0;
+    background-color: #F6EEF6;
 }

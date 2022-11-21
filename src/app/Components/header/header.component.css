@@ -11,8 +11,13 @@
 
 .row{
     margin: 0;
+    background-color: #F6EEF6;
 }
 
 .nav-wrapper{
-    background-color: #ede7f6;
+    background-color: #F6EEF6;
+}
+
+.sidenav{
+    background-color: #F6EEF6;
 }
