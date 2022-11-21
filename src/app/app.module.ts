@@ -7,7 +7,6 @@ import { AppComponent } from './app.component';
 import { prueba } from './prueba/prueba.compA';
 import { FooterComponent } from './Components/footer/footer.component';
 import { HeaderComponent } from './Components/header/header.component';
-import { HomePageComponent } from './Components/home-page/home-page.component';
 import { AboutComponent } from './Components/about/about.component';
 import { Z0HomeComponent } from './Components/z0-home/z0-home.component';
 import { Z1AboutComponent } from './Components/z1-about/z1-about.component';
@@ -22,7 +21,6 @@ import { Z5MerchComponent } from './Components/z5-merch/z5-merch.component';
     prueba,
     FooterComponent,
     HeaderComponent,
-    HomePageComponent,
     AboutComponent,
     Z0HomeComponent,
     Z1AboutComponent,
