@@ -1,11 +1,11 @@
 #big_img{
     height: 300px;
-    width: 650px;
+    max-width:100%;
 }
 
 #small_img{
     height: 200px;
-    width: 295px;
+    max-width:100%;
 }
 
 
