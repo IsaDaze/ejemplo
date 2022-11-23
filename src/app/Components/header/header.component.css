@@ -7,6 +7,8 @@
 .logo{
     height: 50px;
     width: 150px;
+    vertical-align: middle;
+    padding: 0px 10px 0px 10px;
 }
 
 .row{
@@ -20,4 +22,8 @@
 
 .sidenav{
     background-color: #F6EEF6;
+}
+
+.material-icons{
+    color: black;
 }
