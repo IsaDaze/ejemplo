@@ -1,5 +1,12 @@
+body{
+    background-image: url("../../../assets/resources/background.jpg");;
+}
 
 .carousel-item{
     height: 700px;
-    width: 1645px;
+    width: 1660px;
+
+    height: 700px;
+    max-width:100%;
 }
+

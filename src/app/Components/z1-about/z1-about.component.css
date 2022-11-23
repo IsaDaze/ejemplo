@@ -1,3 +1,7 @@
+body{
+    background-image: url("../../../assets/resources/background.jpg");;
+}
+
 #big_img{
     height: 300px;
     max-width:100%;
@@ -9,27 +13,12 @@
 }
 
 
-
-
-.title{
-    color: #5E581B;
-    font-size: 200%;
-    font-weight: bold;
-}
 h1{
     color: #5E581B;
     font-size: 200%;
     font-weight: bold;
 }
 
-
-.quote{
-    color: #D62383;
-    font-size: 200%;
-    text-align: center;
-    font-weight: bold;
-    font-style: italic;
-}
 h2{
     color: #D62383;
     font-size: 200%;
@@ -38,10 +27,6 @@ h2{
     font-style: italic;
 }
 
-.body-text{
-    color: #596D6B;
-    text-align: left;
-}
 p{
     color: #596D6B;
     text-align: left;
@@ -51,8 +36,3 @@ span{
     color: white;
 }
 
-.test{
-    border-width: 2pt;
-    border-style: solid;
-    border-color: aqua;
-}
