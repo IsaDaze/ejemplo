@@ -1,5 +1,8 @@
 body{
-    background-image: url("../../../assets/resources/background.jpg");;
+    background-image: url("../../../assets/resources/background.jpg");
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
 }
 
 #big_img{

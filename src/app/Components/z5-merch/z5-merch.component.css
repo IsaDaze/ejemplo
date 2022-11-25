@@ -1,0 +1,26 @@
+body{
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ 
+.body-text{
+    color: #596D6B;
+    text-align: left;
+}
+ 
+p{
+    color: #596D6B;
+    text-align: center;
+}
+ 
+.products{
+    height: 250px;
+    width: auto;
+}
+ 
+.fit {
+    width: 100%;
+    height: auto;
+}
+
