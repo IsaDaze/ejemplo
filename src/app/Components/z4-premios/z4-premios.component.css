@@ -1,0 +1,29 @@
+.container {
+    position: relative;
+    color: white;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 130px;
+    left: 80px;
+}
+
+body{
+    background-image: url("../../../assets/resources/background.jpg");
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+
+img {vertical-align:top;}
+
+p{
+    color: #596D6B;
+    text-align: left;
+    margin: -30px;
+}
+
+.row {
+    margin: 0px;
+}
