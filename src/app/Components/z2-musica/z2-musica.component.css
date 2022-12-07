@@ -4,3 +4,92 @@ body{
         background-repeat: no-repeat;
         background-attachment: fixed;
 }
+
+
+
+.iconsb{
+    height: auto;
+    width: auto; 
+    margin: auto ;
+
+}
+
+.testb{
+    border-width: 1px;
+    border-color: darkorchid;
+    border-style: solid;
+    margin: auto;
+}
+
+.rowb{
+    margin: 0px;
+}
+
+#logob{
+    height: 280px;
+    width: auto; 
+    margin: 0px 0px;
+}
+
+.nav-wrapperb{
+    background-color:#000000;
+    text-emphasis-color: #000000;
+}
+
+.ed-textb{
+    color: #fff;
+    font-size: large;
+    font-weight:bolder;
+}
+
+
+
+
+
+#logo{
+    height: 500px;
+    width: auto; 
+    margin: 10px 50px;
+}
+
+.nav-wrapper2{
+    /*
+    background-color:#fff;
+    text-emphasis-color: #000000;
+    */
+}
+
+.nav-wrapper{
+    /*
+    background-image:url("../../../assets/resources/WEB BG.png");
+    */
+}
+
+/*
+.row{
+    height: auto;
+    margin: 0px;
+}*/
+
+.cl1{
+    height: auto;
+    margin:0px;
+}
+
+.cl2{
+    margin: 60px;
+}
+
+.ed-text{
+    color: #5E581B;
+    text-align: center;
+    font-weight:bolder;
+}
+
+.card-content{
+    border-width: 0px;
+    background-color: transparent;
+    border-color: transparent;
+    height: 500px;
+    width: auto;
+}
